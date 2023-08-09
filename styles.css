@@ -335,5 +335,9 @@ button {
         font-size: 17px;
         margin-top: 40px;
     }
+
+    .modal-content{
+        width: 430px;
+    }
  }
 
